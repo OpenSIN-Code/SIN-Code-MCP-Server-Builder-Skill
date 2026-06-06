@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "sin-mcp-server-builder"
-version = "0.1.0"
+version = "0.2.0"
 description = "SIN-MCP-Server-Builder Skill — meta-skill that scaffolds new MCP servers (python-fastmcp / node-mcp / go-mcp) following the OpenSIN-Code canonical pattern."
 readme = "README.md"
 license = {text = "MIT"}
@@ -39,6 +39,17 @@ dev = [
 
 [project.scripts]
 sin-mcp-server-builder-mcp = "sin_mcp_server_builder.mcp_server:main"
+# v0.2.0 — Standalone CLI shims for the 8 MCP tools. Lets shell users
+# and sub-agents scaffold + register + publish MCP servers without
+# spinning up the FastMCP server.
+mcp-scaffold = "sin_mcp_server_builder.cli_shims.mcp_scaffold:main"
+mcp-template-list = "sin_mcp_server_builder.cli_shims.mcp_template_list:main"
+mcp-tool-add = "sin_mcp_server_builder.cli_shims.mcp_tool_add:main"
+mcp-tool-test = "sin_mcp_server_builder.cli_shims.mcp_tool_test:main"
+mcp-register = "sin_mcp_server_builder.cli_shims.mcp_register:main"
+mcp-validate = "sin_mcp_server_builder.cli_shims.mcp_validate:main"
+mcp-publish = "sin_mcp_server_builder.cli_shims.mcp_publish:main"
+mcp-audit = "sin_mcp_server_builder.cli_shims.mcp_audit:main"
 
 [tool.setuptools.packages.find]
 where = ["src"]
