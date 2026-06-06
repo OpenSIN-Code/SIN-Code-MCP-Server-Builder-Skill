@@ -1,3 +1,16 @@
+> ## ⚠️ DEPRECATED — This skill has been merged into [sin-code-bundle](https://github.com/OpenSIN-Code/SIN-Code-Bundle)
+>
+> As of v0.9.3 (2026-06-06), this standalone skill is now a subcommand of the `sin-code-bundle` CLI:
+>
+> | Old | New |
+> |-----|-----|
+> | standalone skill | `sin mcp-server` |
+>
+> **Migrate now:** `pip install --upgrade sin-code-bundle`
+>
+> This repo is archived; no further updates will be made.
+> See [issue #29](https://github.com/OpenSIN-Code/SIN-Code-Bundle/issues/29) for the consolidation rationale.
+
 # SIN-Code-MCP-Server-Builder-Skill
 
 [![MCP](https://img.shields.io/badge/MCP-server-blue)](https://modelcontextprotocol.io)
