@@ -1,6 +1,6 @@
 /**
  * Purpose: Smoke tests for the {{ name }} MCP server tools.
- * Docs: tests/tools.test.doc.md
+ * Docs: tools.test.doc.md
  */
 import { test } from "node:test";
 import assert from "node:assert/strict";

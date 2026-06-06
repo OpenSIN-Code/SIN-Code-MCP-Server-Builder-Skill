@@ -1,6 +1,6 @@
 """
 Purpose: Publish an MCP server to PyPI (Python) or npm (Node).
-Docs: sin_mcp_server_builder/publisher.doc.md
+Docs: publisher.doc.md
 """
 
 from __future__ import annotations

@@ -1,6 +1,6 @@
 """
 Purpose: Validate an MCP server (tools, type hints, docstrings, CoDocs).
-Docs: sin_mcp_server_builder/validator.doc.md
+Docs: validator.doc.md
 """
 
 from __future__ import annotations

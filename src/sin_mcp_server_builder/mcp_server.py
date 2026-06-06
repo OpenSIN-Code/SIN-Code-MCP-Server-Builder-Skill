@@ -1,6 +1,6 @@
 """
 Purpose: FastMCP server exposing 8 meta-tools for building MCP servers.
-Docs: sin_mcp_server_builder/mcp_server.doc.md
+Docs: mcp_server.doc.md
 """
 
 from __future__ import annotations

@@ -1,6 +1,6 @@
 """
 Purpose: SIN-MCP-Server-Builder Skill — meta-skill that scaffolds new MCP servers.
-Docs: sin_mcp_server_builder/__init__.doc.md
+Docs: __init__.doc.md
 """
 
 from .auditor import Auditor

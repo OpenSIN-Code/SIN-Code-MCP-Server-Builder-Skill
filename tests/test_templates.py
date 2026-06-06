@@ -1,6 +1,6 @@
 """
 Purpose: Test the templates engine and template discovery.
-Docs: tests/test_templates.doc.md
+Docs: test_templates.doc.md
 """
 
 import pytest

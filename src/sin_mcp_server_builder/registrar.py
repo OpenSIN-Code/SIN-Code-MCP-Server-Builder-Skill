@@ -1,6 +1,6 @@
 """
 Purpose: Register a new MCP server in opencode.json (mcp section).
-Docs: sin_mcp_server_builder/registrar.doc.md
+Docs: registrar.doc.md
 """
 
 from __future__ import annotations

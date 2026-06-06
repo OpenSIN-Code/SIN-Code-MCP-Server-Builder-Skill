@@ -1,6 +1,6 @@
 """
 Purpose: Run a ceo-audit on a freshly scaffolded MCP server.
-Docs: sin_mcp_server_builder/auditor.doc.md
+Docs: auditor.doc.md
 """
 
 from __future__ import annotations

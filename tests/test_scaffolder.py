@@ -1,6 +1,6 @@
 """
 Purpose: Test the Scaffolder and ScaffoldSpec.
-Docs: tests/test_scaffolder.doc.md
+Docs: test_scaffolder.doc.md
 """
 
 import pytest

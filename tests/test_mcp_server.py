@@ -1,6 +1,6 @@
 """
 Purpose: Test the FastMCP server entry points.
-Docs: tests/test_mcp_server.doc.md
+Docs: test_mcp_server.doc.md
 """
 
 import json

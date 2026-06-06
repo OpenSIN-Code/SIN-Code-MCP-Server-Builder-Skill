@@ -1,6 +1,6 @@
 """
 Purpose: Test the Validator.
-Docs: tests/test_validator.doc.md
+Docs: test_validator.doc.md
 """
 
 

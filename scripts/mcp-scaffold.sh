@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Purpose: Scaffold a new MCP server from a spec.
-# Docs: scripts/mcp-scaffold.sh.doc.md
+# Docs: mcp-scaffold.sh.doc.md
 
 set -euo pipefail
 

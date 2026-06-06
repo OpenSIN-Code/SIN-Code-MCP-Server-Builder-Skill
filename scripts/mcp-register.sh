@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Purpose: Register an MCP server in opencode.json.
-# Docs: scripts/mcp-register.sh.doc.md
+# Docs: mcp-register.sh.doc.md
 
 set -euo pipefail
 

@@ -1,6 +1,6 @@
 """
 Purpose: Test the Registrar and McpServerEntry.
-Docs: tests/test_registrar.doc.md
+Docs: test_registrar.doc.md
 """
 
 import json

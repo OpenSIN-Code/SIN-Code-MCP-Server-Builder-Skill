@@ -1,6 +1,6 @@
 """
 Purpose: Generate pytest test cases for an MCP tool.
-Docs: sin_mcp_server_builder/test_gen.doc.md
+Docs: test_gen.doc.md
 """
 
 from __future__ import annotations

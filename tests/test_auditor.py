@@ -1,6 +1,6 @@
 """
 Purpose: Test the Auditor (degraded mode + JSON parsing).
-Docs: tests/test_auditor.doc.md
+Docs: test_auditor.doc.md
 """
 
 import json

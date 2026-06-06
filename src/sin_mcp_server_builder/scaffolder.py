@@ -1,6 +1,6 @@
 """
 Purpose: Generate a new MCP server directory structure from a ScaffoldSpec.
-Docs: sin_mcp_server_builder/scaffolder.doc.md
+Docs: scaffolder.doc.md
 """
 
 from __future__ import annotations

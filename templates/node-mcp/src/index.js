@@ -1,6 +1,6 @@
 /**
  * Purpose: {{ name }} MCP server entry point.
- * Docs: src/index.doc.md
+ * Docs: index.doc.md
  */
 import { Server } from "@modelcontextprotocol/sdk/server/index.js";
 import { StdioServerTransport } from "@modelcontextprotocol/sdk/server/stdio.js";

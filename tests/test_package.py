@@ -1,6 +1,6 @@
 """
 Purpose: Test the top-level package API and version.
-Docs: tests/test_package.doc.md
+Docs: test_package.doc.md
 """
 
 import sin_mcp_server_builder as pkg

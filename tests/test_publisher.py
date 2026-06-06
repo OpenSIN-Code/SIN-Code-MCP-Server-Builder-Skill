@@ -1,6 +1,6 @@
 """
 Purpose: Test the Publisher and dispatcher.
-Docs: tests/test_publisher.doc.md
+Docs: test_publisher.doc.md
 """
 
 import json

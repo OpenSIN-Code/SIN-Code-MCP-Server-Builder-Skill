@@ -1,6 +1,6 @@
 """
 Purpose: Jinja2 template engine and template discovery for MCP server scaffolds.
-Docs: sin_mcp_server_builder/templates.doc.md
+Docs: templates.doc.md
 """
 
 from __future__ import annotations

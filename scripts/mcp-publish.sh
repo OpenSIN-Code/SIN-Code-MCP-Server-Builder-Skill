@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Purpose: Publish an MCP server to PyPI or npm.
-# Docs: scripts/mcp-publish.sh.doc.md
+# Docs: mcp-publish.sh.doc.md
 
 set -euo pipefail
 

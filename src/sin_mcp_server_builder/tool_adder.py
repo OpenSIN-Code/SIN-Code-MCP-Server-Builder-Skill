@@ -1,6 +1,6 @@
 """
 Purpose: Add a new tool to an existing MCP server, preserving CoDocs structure.
-Docs: sin_mcp_server_builder/tool_adder.doc.md
+Docs: tool_adder.doc.md
 """
 
 from __future__ import annotations

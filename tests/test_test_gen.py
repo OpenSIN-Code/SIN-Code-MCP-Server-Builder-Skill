@@ -1,6 +1,6 @@
 """
 Purpose: Test the TestGenerator.
-Docs: tests/test_test_gen.doc.md
+Docs: test_test_gen.doc.md
 """
 
 import pytest

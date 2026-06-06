@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Purpose: Add a new tool to an existing MCP server.
-# Docs: scripts/mcp-add-tool.sh.doc.md
+# Docs: mcp-add-tool.sh.doc.md
 
 set -euo pipefail
 

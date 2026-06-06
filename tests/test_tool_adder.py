@@ -1,6 +1,6 @@
 """
 Purpose: Test the ToolAdder and ToolSpec.
-Docs: tests/test_tool_adder.doc.md
+Docs: test_tool_adder.doc.md
 """
 
 import pytest

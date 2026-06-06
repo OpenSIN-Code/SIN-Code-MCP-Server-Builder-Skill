@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Purpose: Run the test suite for a generated MCP server.
-# Docs: scripts/mcp-test.sh.doc.md
+# Docs: mcp-test.sh.doc.md
 
 set -euo pipefail
 

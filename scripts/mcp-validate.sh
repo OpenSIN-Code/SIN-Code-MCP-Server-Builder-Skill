@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # Purpose: Validate an MCP server (tools, type hints, docstrings, CoDocs).
-# Docs: scripts/mcp-validate.sh.doc.md
+# Docs: mcp-validate.sh.doc.md
 
 set -euo pipefail
 
